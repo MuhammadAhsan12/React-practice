@@ -1,0 +1,11 @@
+Router....
+npm install react-router-dom
+
+BootStrep....
+npm install react-bootstrap bootstrap
+
+SSR(Server side Routimg)
+npm install express
+npm install @babel/register @babel/preset-env @babel/preset-react ignore-styles
+npm run build
+node server/index.js
